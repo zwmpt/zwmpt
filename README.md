@@ -37,5 +37,5 @@
 ### :trophy: Достижения :
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=romper stomper" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zwmpt" alt=""/>
 </div>
