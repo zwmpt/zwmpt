@@ -27,7 +27,7 @@
 ### :hammer_and_wrench: Языки и инструменть| :
 
 <div>
-<img src = "[https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg ](https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg)" width="40" height="40"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg " width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/figna/figna-original.svg " width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg " width="40" height="40"/>
