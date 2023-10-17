@@ -19,3 +19,8 @@
 </div>
 
 ### :man_technologist: Обо мне: 
+
+- :brain: факт обо мне
+- :woman_pilot: факт обо мне
+- :biking_woman: факт обо мне
+### :hammer_and_wrench: Языки и инструменть| :
